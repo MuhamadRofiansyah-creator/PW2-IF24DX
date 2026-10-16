@@ -1,0 +1,15 @@
+.judul-satu {
+    font-size: 40px;
+    color: #ffcc00;
+    border: 1px solid #ff0000;
+    padding: 10px;
+}
+
+.sub_judul {
+    font-size: 30px;
+    color:#00ff0e;
+    padding: 5px;
+}
+.garis {
+    border-bottom: 1px solid #ffcc00;
+}
